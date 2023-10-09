@@ -176,5 +176,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <input type="submit" value="Draw">
     </form>
+    <a href="index.php">back</a>
 </body>
 </html>
